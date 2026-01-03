@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Sri Ramakrishna Kudil : Donate</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/icon" href="assets/images/Favicon_Page_Header.png"/>
+    <!-- Font Awesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <!-- Slick slider -->
+    <link href="assets/css/slick.css" rel="stylesheet">
+    <!-- Gallery Lightbox -->
+    <link href="assets/css/magnific-popup.css" rel="stylesheet">
+    <!-- Skills Circle CSS  -->
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/circlebars@1.0.3/dist/circle.css">
+    
+
+    <!-- Main Style -->
+    <link href="style.css" rel="stylesheet">
+
+    <!-- Fonts -->
+
+    <!-- Google Fonts Raleway -->
+	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,400i,500,500i,600,700" rel="stylesheet">
+	<!-- Google Fonts Open sans -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800" rel="stylesheet">
+ 
+ 
+	</head>
+  <body>
+
+ 
+
+   <!--START SCROLL TOP BUTTON -->
+    <a class="scrollToTop" href="#">
+      <i class="fa fa-angle-up"></i>
+    </a>
+  <!-- END SCROLL TOP BUTTON -->
+  	
+  <!-- Start Header -->
+	<header id="mu-hero">
+		<div class="container">
+			<nav class="navbar navbar-expand-lg navbar-light mu-navbar">
+				<!-- Text based logo -->
+				<a class="navbar-brand mu-logo" href="index.html"><span>Sri Ramakrishna Kudil</span></a>
+				<!-- image based logo -->
+			   	<!-- <a class="navbar-brand mu-logo" href="index.html"><img src="assets/images/RKK_Logo_aa.png" alt="logo"></a> -->
+			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			    <span class="fa fa-bars"></span>
+			  </button>
+
+			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+			    <ul class="navbar-nav mr-auto mu-navbar-nav">
+			      <li class="nav-item">
+			        <a href="index.html">Home</a>
+			      </li>
+			      <li class="nav-item"><a href="about-us.html">About us</a></li>
+				  <li class="nav-item"><a href="portfolio.html">Gallery</a></li>
+			      <!-- <li class="nav-item"><a href="#">Success Stories</a></li> -->
+				  <!-- <li class="nav-item"><a href="blog-single.html">Media</a></li> -->
+			       <!-- <li class="nav-item dropdown">
+				        <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog</a>
+				       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+				          <a class="dropdown-item" href="blog.html">Blog Archive</a>
+				          <a class="dropdown-item" href="blog-single.html">Blog Single</a>
+				        </div>
+				    </li> -->
+					<li class="nav-item active"><a href="donate.html">Donate</a></li>
+			        <li class="nav-item"><a href="contact.html">Contact us</a></li>
+					 
+			        <!-- <li class="nav-item"><a href="404.html">404 Page</a></li> -->
+			    </ul>
+			  </div>
+			</nav>
+		</div>
+	</header>
+	<!-- End Header -->
+
+	<!-- Start Page Header area -->
+	<div id="mu-page-header">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="mu-page-header-area">
+						<!-- <h1 class="mu-page-header-title">Contact us</h1> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Page Header area -->
+
+	<!-- Start Breadcrumb -->
+	<div id="mu-breadcrumb">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<nav aria-label="breadcrumb" role="navigation">
+					  <ol class="breadcrumb mu-breadcrumb">
+					    <li class="breadcrumb-item"><a href="#">Home</a></li>
+					    <li class="breadcrumb-item active" aria-current="page">Support Us</li>
+					  </ol>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Breadcrumb -->
+
+	
+	<!-- Start main content -->
+	<main>
+	
+<!-- Start Donate -->
+					<section id="mu-donate">
+					<div class="container">
+						<div class="row">
+						<div class="col-md-12">
+
+							<!-- Title -->
+							<div class="mu-donate-title text-center">
+							<h2>Donate to Sri Ramakrishna Kudil</h2>
+							<p>
+								Sri Ramakrishna Kudil, Thirupparaithurai, is a charitable educational
+								institution founded in 1949 with the noble vision of uplifting
+								underprivileged children through value-based education, discipline,
+								and self-reliance. For over seven decades, the Kudil has been serving
+								society by shaping young lives into responsible, spiritually rooted
+								citizens.
+							</p>
+							<p><strong>Your generous contribution helps us continue this sacred mission.</strong></p>
+							</div>
+
+							<!-- Why Donation Matters -->
+							<div class="mu-donate-section">
+							<h4>Why Your Donation Matters</h4>
+							<ul>
+								<li>Free and subsidized education for poor and needy boys</li>
+								<li>Food, clothing, shelter, and healthcare for resident students</li>
+								<li>Character building based on the ideals of Sri Ramakrishna, Holy Mother Sarada Devi, and Swami Vivekananda</li>
+								<li>Maintenance and development of school infrastructure</li>
+								<li>Supporting teachers, caretakers, and educational activities</li>
+							</ul>
+							<p><strong>Every donation, big or small, becomes a building block in a child’s future.</strong></p>
+							</div>
+
+							<!-- Ways You Can Support -->
+							<div class="mu-donate-section">
+							<h4>Ways You Can Support</h4>
+							<ul>
+								<li>Student education sponsorship</li>
+								<li>Hostel and food expenses</li>
+								<li>Classroom and library development</li>
+								<li>Infrastructure and building maintenance</li>
+								<li>General welfare and institutional growth</li>
+							</ul>
+							<p>
+								All donations are utilized transparently for the welfare of the
+								children and the institution.
+							</p>
+							</div>
+
+							<!-- Suggested Donation Options -->
+							<div class="mu-donate-section">
+							<h4>Suggested Donation Options</h4>
+							<ol>
+								<li>Daily Food Support for Students – ₹3,000</li>
+								<li>Educational Support for Students – ₹5,000</li>
+								<li>Special Educational Needs Support – ₹10,000</li>
+								<li>Annual Educational Assistance – ₹15,000</li>
+								<li>Classroom / Infrastructure Development Support – ₹4,50,000</li>
+								<li>Major Institutional Development Contribution – ₹54,00,000</li>
+								<li>Construction Support for Institutional Facilities – ₹1,50,000</li>
+								<li>Furniture & Basic Amenities Support – ₹40,000</li>
+								<li>Student Welfare Support for 350 Students – ₹1,75,000</li>
+								<li>Kitchen & Food Preparation Infrastructure Support – ₹75,000</li>
+								<li>General Donation for Institutional Growth and Maintenance – Any Amount</li>
+							</ol>
+							<p>
+								(Contributors may also donate an amount of their choice according to
+								their willingness and capacity.)
+							</p>
+							<p>
+								<strong>
+								All contributions are utilized solely for the welfare, education,
+								and holistic development of students at Sri Ramakrishna Kudil.
+								</strong>
+							</p>
+							</div>
+
+							<!-- Tax Benefit -->
+							<div class="mu-donate-section">
+							<h4>Tax Benefit (80G Exemption)</h4>
+							<p>
+								Donations made to Sri Ramakrishna Kudil are eligible for Income Tax
+								exemption under Section 80G, as per Government of India norms.
+								Donation receipts will be issued upon request.
+							</p>
+							</div>
+
+							<!-- Bank Details -->
+							<div class="mu-donate-section">
+								<h4 class="text-center mb-4">Bank Account Details for Donation</h4>
+
+								<p class="text-center mb-4">
+									<strong>Account Name:</strong> Sri Ramakrishna Kudil, Thirupparaithurai
+								</p>
+
+								<div class="row">
+
+									<!-- Canara Bank -->
+									<div class="col-md-6 mb-4">
+									<div class="donate-bank-box">
+										<h5>Canara Bank</h5>
+										<p><strong>Account No:</strong> 8434101006556</p>
+										<p><strong>IFSC Code:</strong> CNRB0008434</p>
+										<p><strong>Branch:</strong> Thirupparaithurai</p>
+									</div>
+									</div>
+
+									<!-- SBI Bank -->
+									<div class="col-md-6 mb-4">
+									<div class="donate-bank-box">
+										<h5>State Bank of India (SBI)</h5>
+										<p><strong>Account No:</strong> 37224747273</p>
+										<p><strong>IFSC Code:</strong> SBIN0018664</p>
+										<p><strong>Branch:</strong> Pettavaithalai</p>
+									</div>
+									</div>
+
+								</div>
+
+								<p class="text-center mt-3 donate-note">
+									Kindly mention <strong>“Donation”</strong> in the transfer remarks.
+								</p>
+								</div>
+
+							<!-- Contact -->
+							<div class="mu-donate-section">
+							<h4>Contact for Donations</h4>
+							<p>
+								<strong>Sri Ramakrishna Kudil</strong><br>
+								Thirupparaithurai – 639115<br><br>
+								📞 Phone: 0431-2614548, 2614235<br>
+								📱 Mobile: 94435 77235, 94423 52770<br>
+								📧 Email: srkudil2024@gmail.com
+							</p>
+							</div>
+
+							<!-- Appeal -->
+							<div class="mu-donate-section text-center">
+							<h4>A Humble Appeal</h4>
+							<p>
+								By supporting Sri Ramakrishna Kudil, you become part of a timeless
+								mission — transforming lives through education, service, and
+								spiritual values. Your donation is not just charity; it is an
+								investment in humanity.
+							</p>
+							</div>
+
+						</div>
+						</div>
+					</div>
+					</section>
+<!-- End Donate -->
+
+
+
+
+	</main>
+	
+	<!-- End main content -->	
+			
+			
+<!-- Start footer -->
+	<footer id="mu-footer">
+		<div class="mu-footer-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<img class="mu-footer-logo" src="assets/images/RKK_Logo_Footer.png" alt="logo">
+							<!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus. </p>
+							<div class="mu-social-media">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a class="mu-twitter" href="#"><i class="fa fa-twitter"></i></a>
+								<a class="mu-pinterest" href="#"><i class="fa fa-pinterest-p"></i></a>
+								<a class="mu-google-plus" href="#"><i class="fa fa-google-plus"></i></a>
+								<a class="mu-youtube" href="#"><i class="fa fa-youtube"></i></a>
+							</div> -->
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<h3>Sri Ramakrishna Paramahamsa Words</h3>
+							<ul class="list-unstyled">
+							  	<li class="media">
+								   <span class="fa fa-quote-right"></span>
+								    <div class="media-body">
+								    	<p>As long as I live, so long do I learn.</p>
+								    	<!-- <a href="#">2 hours ago</a> -->
+								    </div>
+							  	</li>
+							  	<li class="media">
+								   	 <span class="fa fa-quote-right"></span>
+								    <div class="media-body">
+								    	<p>Speak the truth, do not look upon the consequences.</p>
+								    	<!-- <a href="#">2 hours ago</a> -->
+								    </div>
+							  	</li>
+								<li class="media">
+								   	 <span class="fa fa-quote-right"></span>
+								    <div class="media-body">
+								    	<p>The world is indeed a mixture of truth and make-believe. Discard the make-believe and take the truth.</p>
+								    	<!-- <a href="#">2 hours ago</a> -->
+								    </div>
+							  	</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-2">
+						<div class="mu-single-footer">
+							<h3>Useful link</h3>
+							<ul class="mu-useful-links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="about-us.html">About Us</a></li>
+								<li><a href="portfolio.html">Gallery</a></li>
+								<!-- <li><a href="#">Success Stories</a></li> -->
+								 <li><a href="donate.html">Donate</a></li>
+								<li><a href="contact.html">Contact Us</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<h3>Contact Information</h3>
+							<ul class="list-unstyled">
+							  <li class="media">
+							    <span class="fa fa-home"></span>
+							    <div class="media-body">
+							    	<p>Sri Ramakrishna Kudil, Thirupparaithurai, Tiruchirappalli, Tamil Nadu 639115 </p>
+							    </div>
+							  </li>
+							  <li class="media">
+							    <span class="fa fa-phone"></span>
+							    <div class="media-body">
+							       <p>0431-261 4548</p>
+								   <p>0431-261 4235</p>
+							    </div>
+							  </li>
+							  <li class="media">
+							    <span class="fa fa-envelope"></span>
+							    <div class="media-body">
+							     <p>srkudil2024@gmail.com</p>
+							    </div>
+							  </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="mu-footer-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-footer-bottom-area">
+							<p class="mu-copy-right">&copy; Copyright <a rel="nofollow" href="#">Sri Ramakrishna Kudil</a>. All right reserved.<br>Designed By <a rel="nofollow" href="https://newdreamdatasystems.com/">Newdream Data Systems Pvt. Ltd.</a> </p>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</footer>
+	<!-- End footer -->
+
+	<!-- JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+	<!-- Slick slider -->
+    <script type="text/javascript" src="assets/js/slick.min.js"></script>
+    <!-- Progress Bar -->
+    <script src="https://unpkg.com/circlebars@1.0.3/dist/circle.js"></script>
+    <!-- Filterable Gallery js -->
+    <script type="text/javascript" src="assets/js/jquery.filterizr.min.js"></script>
+    <!-- Gallery Lightbox -->
+    <script type="text/javascript" src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Counter js -->
+    <script type="text/javascript" src="assets/js/counter.js"></script>
+    <!-- Ajax contact form  -->
+    <script type="text/javascript" src="assets/js/app.js"></script>
+    
+	
+    <!-- Custom js -->
+	<script type="text/javascript" src="assets/js/custom.js"></script>
+
+	<!-- About us Skills Circle progress  -->
+	<script>
+		// First circle
+	    new Circlebar({
+        element : "#circle-1",
+        type : "progress",
+	      maxValue:  "90"
+	    });
+		
+		// Second circle
+	    new Circlebar({
+        element : "#circle-2",
+        type : "progress",
+	      maxValue:  "84"
+	    });
+
+	    // Third circle
+	    new Circlebar({
+        element : "#circle-3",
+        type : "progress",
+	      maxValue:  "60"
+	    });
+
+	    // Fourth circle
+	    new Circlebar({
+        element : "#circle-4",
+        type : "progress",
+	      maxValue:  "74"
+	    });
+
+	</script>
+	  <script>
+    // Disable right click
+    document.addEventListener('contextmenu', e => e.preventDefault());
+
+    // Disable copy, paste, cut
+    ['copy', 'paste', 'cut'].forEach(evt => {
+      document.addEventListener(evt, e => e.preventDefault());
+    });
+
+    // Disable certain keyboard shortcuts
+    document.onkeydown = function(e) {
+      if (e.ctrlKey && ['u','c','v','x','s','a'].includes(e.key.toLowerCase())) {
+        e.preventDefault();
+      }
+      if (e.key === "F12") {
+        e.preventDefault();
+      }
+    };
+
+    // Detect if DevTools is open (basic trick)
+    (function() {
+      let devtoolsOpen = false;
+      const element = new Image();
+      Object.defineProperty(element, 'id', {
+        get: function() {
+          devtoolsOpen = true;
+          alert("Developer Tools detected!");
+          window.location.href = "about:blank";
+        }
+      });
+      setInterval(() => {
+        devtoolsOpen = false;
+        
+      }, 1000);
+    })();
+  </script>
+    
+  </body>
+</html>

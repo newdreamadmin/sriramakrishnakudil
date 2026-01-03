@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Sri Ramakrishna Kudil : Home</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/icon" href="assets/images/Favicon_Page_Header.png"/>
+    <!-- Font Awesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <!-- Slick slider -->
+    <link href="assets/css/slick.css" rel="stylesheet">
+    <!-- Gallery Lightbox -->
+    <link href="assets/css/magnific-popup.css" rel="stylesheet">
+    <!-- Skills Circle CSS  -->
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/circlebars@1.0.3/dist/circle.css">
+    
+
+    <!-- Main Style -->
+    <link href="style.css" rel="stylesheet">
+
+    <!-- Fonts -->
+
+    <!-- Google Fonts Raleway -->
+	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,400i,500,500i,600,700" rel="stylesheet">
+	<!-- Google Fonts Open sans -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800" rel="stylesheet">
+ 
+ 
+	</head>
+  <body>
+
+   <!--START SCROLL TOP BUTTON -->
+    <a class="scrollToTop" href="#">
+      <i class="fa fa-angle-up"></i>
+    </a>
+  <!-- END SCROLL TOP BUTTON -->
+  	
+  	<!-- Start Header -->
+	<header id="mu-hero">
+		<div class="container">
+			<nav class="navbar navbar-expand-lg navbar-light mu-navbar">
+				<!-- Text based logo -->
+				<a class="navbar-brand mu-logo" href="index.html"><span>Sri Ramakrishna Kudil</span></a>
+				<!-- image based logo -->
+			   	<!-- <a class="navbar-brand mu-logo" href="index.html"><img src="assets/images/RKK_Logo_aa.png" alt="logo"></a> -->
+			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			    <span class="fa fa-bars"></span>
+			  </button>
+
+			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+			    <ul class="navbar-nav mr-auto mu-navbar-nav">
+			      <li class="nav-item active">
+			        <a href="index.html">Home</a>
+			      </li>
+			      <li class="nav-item"><a href="about-us.html">About us</a></li>
+				  <li class="nav-item"><a href="portfolio.html">Gallery</a></li>
+			      <!-- <li class="nav-item"><a href="#">Success Stories</a></li> -->
+				  <!-- <li class="nav-item"><a href="blog-single.html">Media</a></li> -->
+			       <!-- <li class="nav-item dropdown">
+				        <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog</a>
+				       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+				          <a class="dropdown-item" href="blog.html">Blog Archive</a>
+				          <a class="dropdown-item" href="blog-single.html">Blog Single</a>
+				        </div>
+				    </li> -->
+					<li class="nav-item"><a href="donate.html">Donate</a></li>
+			        <li class="nav-item"><a href="contact.html">Contact us</a></li>
+					 
+			        <!-- <li class="nav-item"><a href="404.html">404 Page</a></li> -->
+			    </ul>
+			  </div>
+			</nav>
+		</div>
+	</header>
+	<!-- End Header -->
+
+	<!-- Start slider area -->
+	<div id="mu-slider">
+		<div class="mu-slide">
+			<!-- Start single slide  -->
+			<div class="mu-single-slide">
+				<img src="assets/images/banner-1.png" alt="slider img">
+				<div class="mu-single-slide-content-area">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="mu-single-slide-content">
+									<!-- <h1>Welcome to Sri Ramakrishna Kudil</h1>
+									<h4 style="color: #fff;">Sri Ramakrishna Kudil is a home of love, discipline and education for orphaned and underprivileged children. For more than seven decades, we have been shaping young lives with care, values and hope.</h4>
+									<a class="mu-primary-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a> -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- End single slide  -->
+
+			<!-- Start single slide  -->
+			<div class="mu-single-slide">
+				<img src="assets/images/banner-2.png" alt="slider img">
+				<div class="mu-single-slide-content-area">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="mu-single-slide-content">
+									<!-- <h1>A Home of Love, discipline & Education</h1>
+									<h4 style="color: #fff;">Sri Ramakrishna Kudil is dedicated to nurturing children through holistic care, moral values, and quality education. Our mission is to empower every child to become confident, responsible, and self-reliant.</h4>
+									<a class="mu-primary-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a> -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- End single slide  -->
+
+			<!-- Start single slide  -->
+			<div class="mu-single-slide">
+				<img src="assets/images/banner-3.png" alt="slider img">
+				<div class="mu-single-slide-content-area">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<div class="mu-single-slide-content">
+									<!-- <h1>75 Years of Service & Transformation</h1>
+									<h4 style="color: #fff;">Founded in 1949, Sri Ramakrishna Kudil continues to uplift children by providing shelter, food, education, and life-skills training. Here, every child finds a family, a future, and a place to grow with dignity.</h4>
+									<a class="mu-primary-btn" href="#">Read more <span class="fa fa-long-arrow-right"></span></a> -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- End single slide  -->
+		</div>
+	</div>
+	<!-- End Slider area -->
+
+	
+	<!-- Start main content -->
+	<main>
+		<!-- Start About -->
+		<section id="mu-about">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-about-area-home">
+							<!-- Title -->
+							<div class="row">
+								<div class="col-md-12">
+									<div class="mu-title">
+										<h2>Who we are</h2>
+										<p>Sri Ramakrishna Kudil, founded in 1949 at Thirupparaithurai, is a charitable residential home dedicated to supporting orphaned and underprivileged children. With over seven decades of service, the Kudil continues to provide food, shelter, education, discipline, and life-skills training in a nurturing spiritual environment.</p>
+									</div>
+								</div>
+							</div>
+							<!-- Start Feature Content -->
+							<div class="row">
+								<div class="col-md-6">
+									<div class="mu-about-left">
+										<img class="" src="assets/images/about_us.png" alt="img">
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="mu-about-right">
+										<ul>
+											<li>
+												<h3>Our Mission</h3>
+												<p>To offer children a safe home filled with love, education, and moral guidance—empowering them to become confident, independent, and responsible citizens.</p>
+											</li>
+											<li>
+												<h3>Our Vision</h3>
+												<p>To create a community where every child, regardless of background, receives equal opportunity to grow through education, discipline, self-reliance, and spiritual values.</p>
+											</li>
+											<li>
+												<h3>Our Value</h3>
+												<p>Our values are rooted in compassion, discipline, simplicity, community living, education, and self-reliance—guiding every child to grow with responsibility, gratitude, and dignity.</p>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<!-- End Feature Content -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End About -->
+
+
+
+				<!-- Start Client Testimonials -->
+		<section id="mu-testimonials">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-testimonials-area">
+							<h2>Impressions of Great Men</h2>
+
+							<div class="mu-testimonials-block">
+								<ul class="mu-testimonial-slide">
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/mgr.png" alt="img">
+										<p>I am your son; you can use me in any way you like.</p>
+										<h5 class="mu-rt-name">M. G. Ramachandran</h5>
+										<span class="mu-rt-title">Former Chief Minister of Tamilnadu </span>
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/vinoba-bhave-Legacy.jpg" alt="img">
+										<p>Swami Sri Ramakrishna's dogma is a fine harmonious blend of the "Advaitha doctrine" of Sri Shankar, the spiritual ethics of Sri Madhya and Sri Ramanuja, and the tenets of devotion and dedication of Lord Christ. Apart from these, I find this Ashram to be an embodiment of Mahatmaji's Karma Yoga added to the tranquility of Sri Ramakrishna.</p>
+										<h5 class="mu-rt-name">Acharya Vinoba Bahve</h5>
+										<!-- <span class="mu-rt-title">UI/UX Designer</span> -->
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/Lok_Nayak.jpg" alt="img">
+										<p>This is beautiful setting for a school. It reminds me of what one has heard of the Gurukulas of ancient times. I am sure the children will take back from here an outlook of life which will make them servants of Man and God. Has this system been adhered to in all our educational institutions, our nation would have much prospered and had already the total dawn of Sarvodaya.</p>
+										<h5 class="mu-rt-name">Jayaprakash Narayan</h5>
+										<span class="mu-rt-title"> Indian Politician, Theorist and Independence Activist </span>
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/Venkataraman.jpg" alt="img">
+										<p>I see cleanliness and briskness here. Swamiji's tireless work reflects this. I wish this institution to grow in all its prosperity.</p>
+										<h5 class="mu-rt-name">R. Venkataraman </h5>
+										<span class="mu-rt-title"> Former President of India </span>
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/A_J_John.jpg" alt="img">
+										<p>We are very glad to note that the inmates are given good food and clothing and also basic training and also training in carpentry, tailoring etc., The Gurukulam is run on sacred lines. Wish the institution all further progress and success.</p>
+										<h5 class="mu-rt-name">A.J. John </h5>
+										<span class="mu-rt-title"> Former Governor of Madras </span>
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/Bishnuram_Medhi.jpeg" alt="img">
+										<p>I find everything is done in the institution not only to give the boys necessary training for their future life but also a spiritual background under the direction of the Swamiji.</p>
+										<h5 class="mu-rt-name">Bishnuram Medhi </h5>
+										<span class="mu-rt-title"> Former Governor of Madras </span>
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/silam.jpg" alt="img">
+										<p>Some 300 or more orphan children, who were destitutes before they become the happy inmates of the Ashram, are taught not only academic subjects but given training in different trades. They are given moral and physical instruction also to make them good self-reliant citizens.</p>
+										<h5 class="mu-rt-name">S.L. Silam </h5>
+										<span class="mu-rt-title"> Former Lieutenant Governor of Puducherry </span>
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/Kamaraj.jpg" alt="img">
+										<p>I would like to come and involve in this Ashram as and when I find time.</p>
+										<h5 class="mu-rt-name">K. Kamaraj </h5>
+										<span class="mu-rt-title">Former Chief Minister of Tamilnadu </span>
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/M._Bhaktavatsalam.jpg" alt="img">
+										<p>Children are brought up well. This is a sacred service not only to the children, but also to the society.</p>
+										<h5 class="mu-rt-name">M. Bhaktavatsalam </h5>
+										<span class="mu-rt-title">Former Chief Minister of Tamilnadu </span>
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/annadurai.jpg" alt="img">
+										<p>Inspite of my ever exacting and erratic political environment, the heart of my heart always tends towards the tranquility of such an Ashram.</p>
+										<h5 class="mu-rt-name">C.N. Annadurai </h5>
+										<span class="mu-rt-title">Former Chief Minister of Tamilnadu </span>
+									</li>
+
+									<li>
+										<img class="mu-rt-img" src="assets/images/Testimonial/c_Subramaniam.jpg" alt="img">
+										<p>I am sure that support of good people will be available for this good work. I pray the God for the success of this Institution.</p>
+										<h5 class="mu-rt-name">C. Subramaniam</h5>
+										<span class="mu-rt-title">Former Finance & Defence Minister of India </span>
+									</li>
+
+								</ul>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Client Testimonials -->
+		
+
+		<!-- Start Portfolio -->
+		<section id="mu-portfolio">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-portfolio-area">
+							<!-- Title -->
+							<div class="row">
+								<div class="col-md-12">
+									<div class="mu-title">
+										<h2>Gallery</h2>
+										<p>A glimpse into the joy, learning, and care that fills the lives of our children every day. These photos reflect the love and support that make the Kudil a true home.</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+									<!-- Start Portfolio Filter -->
+									<div class="mu-portfolio-filter-area">
+										<ul class="mu-simplefilter">
+							                <li class="active" data-filter="all">All<span>/</span></li>
+							                <li data-filter="1">Infrastructure<span>/</span> </li>
+							                <li data-filter="2">Our Kidz<span>/</span></li>
+											<li><a href="portfolio.html">For More</a></li>
+							                <!-- <li data-filter="3">E-commerces<span>/</span></li>
+							                <li data-filter="4"> Arts<span>/</span> </li>
+							                <li data-filter="5">Branding</li> -->
+							            </ul>
+									</div>
+
+									<!-- Start Portfolio Content -->
+									<div class="mu-portfolio-content">
+										<div class="filtr-container">
+
+											<div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="1">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/Ramakrishna-monument-media.jpg" title="Ramakrishnan-Monument">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/Ramakrishna-monument-media.jpg" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	<h4 class="mu-filter-item-title">Ramakrishnan Monument</h4>
+								                    	<span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+											    <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="2">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/RKK_Boys_2.jpg" title="Our Kidz">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/RKK_Boys_2.jpg" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	 <h4 class="mu-filter-item-title">Our Kidz</h4>
+								                    	 <span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+							                <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="1">
+							                   <a class="mu-imglink" href="assets/images/Kudil_images/Entrance-1-Copy.png" title="Entrance">
+								                   	<img class="img-responsive" src="assets/images/Kudil_images/Entrance-1-Copy.png" alt="image">
+								                   	<div class="mu-filter-item-content">
+								                    	<h4 class="mu-filter-item-title">Entrance</h4>
+								                    	<span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                   </a>
+							                </div>
+
+											 <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="2">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/RKK_Boys.jpg" title="Our Kidz">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/RKK_Boys.jpg" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	 <h4 class="mu-filter-item-title">Our Kidz</h4>
+								                    	 <span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+							                <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="1">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/Anbargal-illam.jpg" title="Anbargal Illam">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/Anbargal-illam.jpg" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	<h4 class="mu-filter-item-title">Anbargal Illam</h4>
+								                    	<span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+											 <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="2">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/Kids_Bro_Durai.jpg" title="Kids with Rev. Bro. Durai">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/Kids_Bro_Durai.jpg" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	 <h4 class="mu-filter-item-title">Our Kidz with Rev.Bro. Durai</h4>
+								                    	 <span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+							                <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="1">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/Amaithi_Illam.png" title="Amaithi Illam">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/Amaithi_Illam.png" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	<h4 class="mu-filter-item-title">Amaithi Illam</h4>
+								                    	<span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+											<div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="2">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/RKK_Boys_5.jpg" title="Our Happy Kiddo's">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/RKK_Boys_5.jpg" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	<h4 class="mu-filter-item-title">Our Happy Kiddo's</h4>
+								                    	<span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+							                <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="2">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/Future_Engineer.jpg" title="Our Future Engineer">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/Future_Engineer.jpg" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	<h4 class="mu-filter-item-title">Our Future Engineer</h4>
+								                    	<span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+							                <div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="2">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/Masterchefs.png" title="Our Masterchef's">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/Masterchefs.png" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	<h4 class="mu-filter-item-title">Our Masterchef's</h4>
+								                    	<span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+											
+											<div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="2">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/RKK_Boys_1.jpg" title="Our Future Model">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/RKK_Boys_1.jpg" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	<h4 class="mu-filter-item-title">Our Future Model</h4>
+								                    	<span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+											<div class="col-xs-6 col-sm-6 col-md-4 filtr-item" data-category="2">
+							                    <a class="mu-imglink" href="assets/images/Kudil_images/RKK_Boys_3.jpg" title="Our Character Artists">
+							                    	<img class="img-responsive" src="assets/images/Kudil_images/RKK_Boys_3.jpg" alt="image">
+								                    <div class="mu-filter-item-content">
+								                    	<h4 class="mu-filter-item-title">Our Character Artists</h4>
+								                    	<span class="fa fa-long-arrow-right"></span>
+								                    </div>
+							                    </a>
+							                </div>
+
+							                  
+
+							            </div>
+									</div>
+									<!-- End Portfolio Content -->
+								</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Portfolio -->
+
+
+
+
+	</main>
+	
+	<!-- End main content -->	
+			
+			
+	<!-- Start footer -->
+	<footer id="mu-footer">
+		<div class="mu-footer-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<img class="mu-footer-logo" src="assets/images/RKK_Logo_Footer.png" alt="logo">
+							<!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus. </p>
+							<div class="mu-social-media">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a class="mu-twitter" href="#"><i class="fa fa-twitter"></i></a>
+								<a class="mu-pinterest" href="#"><i class="fa fa-pinterest-p"></i></a>
+								<a class="mu-google-plus" href="#"><i class="fa fa-google-plus"></i></a>
+								<a class="mu-youtube" href="#"><i class="fa fa-youtube"></i></a>
+							</div> -->
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<h3>Sri Ramakrishna Paramahamsa Words</h3>
+							<ul class="list-unstyled">
+							  	<li class="media">
+								   <span class="fa fa-quote-right"></span>
+								    <div class="media-body">
+								    	<p>As long as I live, so long do I learn.</p>
+								    	<!-- <a href="#">2 hours ago</a> -->
+								    </div>
+							  	</li>
+							  	<li class="media">
+								   	 <span class="fa fa-quote-right"></span>
+								    <div class="media-body">
+								    	<p>Speak the truth, do not look upon the consequences.</p>
+								    	<!-- <a href="#">2 hours ago</a> -->
+								    </div>
+							  	</li>
+								<li class="media">
+								   	 <span class="fa fa-quote-right"></span>
+								    <div class="media-body">
+								    	<p>The world is indeed a mixture of truth and make-believe. Discard the make-believe and take the truth.</p>
+								    	<!-- <a href="#">2 hours ago</a> -->
+								    </div>
+							  	</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-2">
+						<div class="mu-single-footer">
+							<h3>Useful link</h3>
+							<ul class="mu-useful-links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="about-us.html">About Us</a></li>
+								<li><a href="portfolio.html">Gallery</a></li>
+								<!-- <li><a href="#">Success Stories</a></li> -->
+								 <li><a href="donate.html">Donate</a></li>
+								<li><a href="contact.html">Contact Us</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="mu-single-footer">
+							<h3>Contact Information</h3>
+							<ul class="list-unstyled">
+							  <li class="media">
+							    <span class="fa fa-home"></span>
+							    <div class="media-body">
+							    	<p>Sri Ramakrishna Kudil, Thirupparaithurai, Tiruchirappalli, Tamil Nadu 639115 </p>
+							    </div>
+							  </li>
+							  <li class="media">
+							    <span class="fa fa-phone"></span>
+							    <div class="media-body">
+							       <p>0431-261 4548</p>
+								   <p>0431-261 4235</p>
+							    </div>
+							  </li>
+							  <li class="media">
+							    <span class="fa fa-envelope"></span>
+							    <div class="media-body">
+							     <p>srkudil2024@gmail.com</p>
+							    </div>
+							  </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="mu-footer-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-footer-bottom-area">
+							<p class="mu-copy-right">&copy; Copyright <a rel="nofollow" href="#">Sri Ramakrishna Kudil</a>. All right reserved.<br>Designed By <a rel="nofollow" href="https://newdreamdatasystems.com/">Newdream Data Systems Pvt. Ltd.</a> </p>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</footer>
+	<!-- End footer -->
+
+	
+	<!-- JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+	<!-- Slick slider -->
+    <script type="text/javascript" src="assets/js/slick.min.js"></script>
+    <!-- Progress Bar -->
+    <script src="https://unpkg.com/circlebars@1.0.3/dist/circle.js"></script>
+    <!-- Filterable Gallery js -->
+    <script type="text/javascript" src="assets/js/jquery.filterizr.min.js"></script>
+    <!-- Gallery Lightbox -->
+    <script type="text/javascript" src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Counter js -->
+    <script type="text/javascript" src="assets/js/counter.js"></script>
+    <!-- Ajax contact form  -->
+    <script type="text/javascript" src="assets/js/app.js"></script>
+    
+	
+    <!-- Custom js -->
+	<script type="text/javascript" src="assets/js/custom.js"></script>
+
+	<!-- About us Skills Circle progress  -->
+	<script>
+		// First circle
+	    new Circlebar({
+        element : "#circle-1",
+        type : "progress",
+	      maxValue:  "90"
+	    });
+		
+		// Second circle
+	    new Circlebar({
+        element : "#circle-2",
+        type : "progress",
+	      maxValue:  "84"
+	    });
+
+	    // Third circle
+	    new Circlebar({
+        element : "#circle-3",
+        type : "progress",
+	      maxValue:  "60"
+	    });
+
+	    // Fourth circle
+	    new Circlebar({
+        element : "#circle-4",
+        type : "progress",
+	      maxValue:  "74"
+	    });
+
+	</script>
+	  <script>
+    // Disable right click
+    document.addEventListener('contextmenu', e => e.preventDefault());
+
+    // Disable copy, paste, cut
+    ['copy', 'paste', 'cut'].forEach(evt => {
+      document.addEventListener(evt, e => e.preventDefault());
+    });
+
+    // Disable certain keyboard shortcuts
+    document.onkeydown = function(e) {
+      if (e.ctrlKey && ['u','c','v','x','s','a'].includes(e.key.toLowerCase())) {
+        e.preventDefault();
+      }
+      if (e.key === "F12") {
+        e.preventDefault();
+      }
+    };
+
+    // Detect if DevTools is open (basic trick)
+    (function() {
+      let devtoolsOpen = false;
+      const element = new Image();
+      Object.defineProperty(element, 'id', {
+        get: function() {
+          devtoolsOpen = true;
+          alert("Developer Tools detected!");
+          window.location.href = "about:blank";
+        }
+      });
+      setInterval(() => {
+        devtoolsOpen = false;
+        
+      }, 1000);
+    })();
+  </script>
+    
+  </body>
+</html>
